@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+}
+
+
+.container {
+    column-width: 300px;
+    column-gap: 2em;
+    padding-bottom: 10px;
+}
+
+.paragraph {
+    margin-top: 0px;
+    font-size: 1.2em;
+}
+
+.col-img {
+    width: 100%;
+    
+}
